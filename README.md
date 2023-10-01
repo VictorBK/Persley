@@ -1,2 +1,2 @@
 # Persley
-Events app
+Events management app
